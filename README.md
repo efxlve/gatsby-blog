@@ -12,7 +12,7 @@ You can view a live demo of this app [here](https://deluxe-bonbon-28154a.netlify
 - [x] SEO
 
 ## Technologies Used
-- Gatsby
+- Gatsby 
 - React
 - Styled Components
 - Netlify
