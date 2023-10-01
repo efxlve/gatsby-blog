@@ -12,10 +12,10 @@ You can view a live demo of this app [here](https://deluxe-bonbon-28154a.netlify
 - [x] SEO
 
 ## Technologies Used
-- [x] Gatsby
-- [x] React
-- [x] Styled Components
-- [x] Netlify
+- Gatsby
+- React
+- Styled Components
+- Netlify
 
 ## Installation
 1. Clone this repository
